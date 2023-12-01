@@ -5,7 +5,7 @@ This study aims to classify plant leaves into three groups of (i) healthy, (ii) 
 
 # Model
 We used a deep NN model to classify leaves into the three classes of Healthy, Powdery, and Rust. The structure includes three convolutional layers followed by three fully connected components.
-![Structure](sampleFig/model.pdf)
+![Structure](sampleFig/model.png)
 
 ## Clone the project
 ```bash
