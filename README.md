@@ -35,4 +35,4 @@ python -m notebook
 then use Analysis.ipynb or Main.ipynb notebooks inside /Code/ directory to see the entire codes.
 
 ## Questions
-Feel free to share your comments and thoughts regarding this project or ask me your question via my email address: "a" + <MY LAST NAME> + "@umass.edu"
+Feel free to share your comments and thoughts regarding this project or ask me your question via my email address: "a" + __MY LAST NAME__ + "@umass.edu"
